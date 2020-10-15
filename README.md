@@ -25,3 +25,5 @@ This widget uses a Google Maps API to create heat map visualizations using zip c
 
 ## Widget Description
 The heat map widget can be downloaded and installed to extend IRIS InterSystems Business Intelligence (formerly known as DeepSee) to render a heat map using zip code data that is translated to lattitude and longitude coordinates using a Google Maps API. The widget is available for download and use at no cost. The Google Cloud Service to use the Google Maps API must be licensed from Google directly to provide an API key, which is saved as a parameter when using the widget.  Licensing is the responsibility of each organization providing use of this widget.
+
+Two files, the heatMap.cls and heatMapView.cls should be downloaded and installed.
