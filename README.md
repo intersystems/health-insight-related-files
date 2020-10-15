@@ -17,3 +17,11 @@ The COVID-19 Syndromic Surveillance Dashboard displays several graphs that show 
 In order to open the Tableau dashboard files, download and install the free [Tableau Reader app](https://www.tableau.com/products/reader). Then, open each dashboard file using Tableau Reader. At the time this demo was created, the current version of Tableau Reader was 2020.3.
  
 These files are provided as examples only, and are not a part of the supported Health Insight product.
+
+
+# Heat Map Widget for IRIS InterSystems BI
+This widget uses a Google Maps API to create heat map visualizations using zip code data. 
+
+
+## Widget Description
+The heat map widget can be downloaded and installed to extend IRIS InterSystems Business Intelligence (formerly known as DeepSee) to render a heat map using zip code data that is translated to lattitude and longitude coordinates using a Google Maps API. The widget is available for download and use at no cost. The Google Cloud Service to use the Google Maps API must be licensed from Google directly to provide an API key, which is saved as a parameter when using the widget.  Licensing is the responsibility of each organization providing use of this widget.
